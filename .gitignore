@@ -1,0 +1,8 @@
+*.html
+*.png
+*.css
+*.js
+dspin/doc
+*.crf
+*.d
+*.o
